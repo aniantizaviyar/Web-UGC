@@ -157,7 +157,7 @@
     <div id="content" class="no-padding">
         <div class="box-container">
             <div id="bg-service-1" class="box-one-third light-text">
-                <div class="inner wow" data-wow-delay="0s">
+                <div class="inner wow" data-wow-delay="0s">                        
                     <h4 class="wow fadeIn" data-wow-delay=".2s">Air & Sea Freight Export, Import, and Domestics</h4>
                     <h6 class="wow fadeIn" data-wow-delay=".3s">We specialise in all types of commercial freight & cargo.</h6>
                     <div class="divider-single"></div>
@@ -194,54 +194,20 @@
         <section id="section-features">
             <div class="container">
                 <div class="row">
-                    <div class="text-center">
-                        <h2 class="wow fadeIn" data-wow-delay="0">Why Choose Us?
-                    <span>Find reasons to choose us as your freight partner</span>
-                        </h2>
-                        <div class="small-border wow flipInY" data-wow-delay=".2s" data-wow-duration=".8s"></div>
-                    </div>
-                    
-                    <div class="col-md-6">
-                        <div class="feature-box">
-                            <i class="icon-tools wow zoomIn" data-wow-delay="0s"></i>
-                            <div class="text wow fadeIn" data-wow-delay=".2s">
-                                <h3>Work Exprerience</h3>
-                                <p>UGC Logistics telah berkecimpung di industri logistik selama 25 tahun lebih.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="feature-box">
-                            <i class="icon-bargraph wow zoomIn" data-wow-delay=".2s"></i>
-                            <div class="text wow fadeIn" data-wow-delay=".4s">
-                                <h3>We Love What We Do</h3>
-                                <p>Kami mencintai pekerjaan kami dan berkomitmen memberikan solusi logistik terbaik.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="feature-box">
-                            <i class="icon-heart wow zoomIn" data-wow-delay=".4s"></i>
-                            <div class="text wow fadeIn" data-wow-delay=".6s">
-                                <h3>We Care What We Deliver</h3>
-                                <p>Kami memastikan keselamatan dan keamanan barang kiriman pelanggan kami dengan pengawasan dan pengujian yang ketat.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="feature-box">
-                            <i class="icon-refresh wow zoomIn" data-wow-delay=".6s"></i>
-                            <div class="text wow fadeIn" data-wow-delay=".8s">
-                                <h3>Safety Responsible and Timely</h3>
-                                <p>Kami selalu mengutamakan keamanan, keandalan, dan kecepatan dalam memberikan solusi logistik yang terbaik bagi pelanggan kami.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="clearfix"></div>
+                <h4 class="wow fadeIn" data-wow-delay=".6s">Harga berapa ser?</h4>
+                    <div class="text-center">                	
+                        <div>
+  						<select name="xx" id="xx">
+  							<option value="" selected>Indonesia</option>
+  						</select>
+						</div>
+						<div>
+  						<select name="xxs" id="xxs">
+  							<option value="" selected>select</option>
+  							<option value="1">Singapore</option>
+  							<option value="2">China</option>
+						</select>
+						</div>
 
                 </div>
             </div>
@@ -311,6 +277,10 @@
                             </div>
                             <!-- close gallery item -->
 
+
+
+
+
                         </div>
                     </div>
                 </div>
@@ -319,20 +289,9 @@
         <!-- section close -->
 
         <!-- section begin -->
-		<section id="explore-1" class="side-bg background-image">                
-			<div class="container">
-                <div class="row">
-                	<div class="col-md-5 col-md-offset-6 pull-right image-container">
-                		<div class="inner-padding">
-                			<div style="display: flex; justify-content: center;">
-                				<iframe width="560" height="361" src="https://www.youtube.com/embed/cUhYVSjw9Fo" 
-                					frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-                                	gyroscope; picture-in-picture" allowfullscreen>
-                				</iframe>
-                			</div>
-                		</div>
-                	</div>
-            	</div>
+        <section id="explore-1" class="side-bg light-text">
+            <div class="col-md-6 col-md-offset-6 pull-right image-container">
+                <div class="background-image"></div>
             </div>
 
             <div class="container">
@@ -427,9 +386,9 @@
                             </li>
 
                             <li>
-                                <a class="NoneActive" style="font-size: 11px">Bagaimana saya mengetahui harga dari setiap pengiriman barang yang diinginkan?</a>
+                                <a class="NoneActive" style="font-size: 11px">Bagaimana saya dapat mengetahui harga dari setiap pengiriman barang yang diinginkan?</a>
                                 <div class="content">
-                                    Untuk mendapatkan detail harga, silahkan menghubungi contact marketing Kami yang sudah tertera pada website.
+                                    Untuk mendapatkan detail harga, dapat menghubungi contact marketing yang sudah tertera pada website. 
                                 </div>
                             </li>
 
